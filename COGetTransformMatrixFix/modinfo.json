@@ -6,9 +6,10 @@
         "SiiMeR"
     ],
     "description": "Fixes a crash when taking off Upper Body or Upper Body Over clothes with the latest version of CO and game v1.20.12",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "dependencies": {
         "game": "",
     },
-    "Side": "Client"
+    "side" : "Universal",
+    "requiredOnClient": true
 }
